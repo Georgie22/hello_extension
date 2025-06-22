@@ -1,0 +1,21 @@
+.popup {
+   width: 300px; 
+   height: 500px;
+   padding: 20px;
+   background-color: khaki;
+}
+
+h1 {
+   color: black;
+   font-size: 40pt;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+   text-transform: capitalize;
+}
+
+img{
+    width: 260px;
+    height: 260px;
+    display: block; 
+    margin: auto;
+}
