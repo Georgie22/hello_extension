@@ -1,0 +1,10 @@
+{
+    "name": "Hello Extensions of the world!",
+    "description": "Learning about extensions",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup/popup.html",
+        "default_icon": "popup/popup_icon.png"
+    }
+}
